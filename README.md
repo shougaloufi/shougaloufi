@@ -1,7 +1,7 @@
 Hi, I'm Shoug Aloufi 
 Computer Science Graduate from King Abdulaziz University.
 
-##About Me
+#About Me
 I have an academic background in Software Engineering and Artificial Intelligence, with a strong interest in building practical software solutions and continuously expanding my technical skills.
 
 ##Technical Skills
