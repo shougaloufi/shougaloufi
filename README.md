@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Shoug Aloufi 
+Computer Science Graduate from King Abdulaziz University.
 
-<!--
-**shougaloufi/shougaloufi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About Me
+I have an academic background in Software Engineering and Artificial Intelligence, with a strong interest in building practical software solutions and continuously expanding my technical skills.
 
-Here are some ideas to get you started:
+##Technical Skills
+- Python
+- Java
+- SQL
+- HTML & CSS
+- Django
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##Featured Project
+MASAR
+A Smart Platform for Managing and Monitoring Graduation Projects Using AI.
+
+##Key Features:
+- AI-powered project analysis
+- Originality checking
+-  Academic assistant
+- Student, Supervisor, and Coordinator dashboards
+-  Project tracking and management
+
+##Currently Learning
+- Power BI
+- Data Visualization
+- Business Intelligence
+
+##Contact
+shougaloufi@gmail.com
